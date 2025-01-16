@@ -35,6 +35,5 @@ tasks.named('test') {
 }
 
 springBoot {
-    mainClass='jangmi.spring.massai_mara_park.MassaiMaraParkApplication'
-
+    mainClass = 'jangmi.spring.massai_mara_park.MassaiMaraParkApplication'
 }
